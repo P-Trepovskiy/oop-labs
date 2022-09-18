@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="StringCalculatorTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2022-09-18T00:02:35" hostname="DESKTOP-VS1EOVL" time="0.058">
+  <properties/>
+  <testcase name="shouldBe3WithDelims()" classname="StringCalculatorTest" time="0.023"/>
+  <testcase name="shouldBe3()" classname="StringCalculatorTest" time="0.001"/>
+  <testcase name="shouldBe1999()" classname="StringCalculatorTest" time="0.001"/>
+  <testcase name="shouldBeNone()" classname="StringCalculatorTest" time="0.001"/>
+  <testcase name="shouldBe6WithRepeatedDelims()" classname="StringCalculatorTest" time="0.001"/>
+  <testcase name="shouldBeExCauseIncorrectInput()" classname="StringCalculatorTest" time="0.004"/>
+  <testcase name="shouldBe10()" classname="StringCalculatorTest" time="0.001"/>
+  <testcase name="shouldBe11()" classname="StringCalculatorTest" time="0.001"/>
+  <testcase name="shouldBe24()" classname="StringCalculatorTest" time="0.0"/>
+  <testcase name="shouldBe3WithMultipleDelims()" classname="StringCalculatorTest" time="0.006"/>
+  <testcase name="shouldBe6WithMultipleRepeatedDelims()" classname="StringCalculatorTest" time="0.001"/>
+  <testcase name="addShouldBeOne()" classname="StringCalculatorTest" time="0.001"/>
+  <testcase name="shouldBe6With3Delims()" classname="StringCalculatorTest" time="0.001"/>
+  <testcase name="shouldBeExCauseNegNums()" classname="StringCalculatorTest" time="0.001"/>
+  <testcase name="shouldBe9With3RepeatedDelims()" classname="StringCalculatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Incorrect input
+Negative numbers, such as -1, -2 are not allowed
+]]></system-err>
+</testsuite>
