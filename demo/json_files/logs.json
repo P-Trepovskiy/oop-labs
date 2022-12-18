@@ -1,1 +1,0 @@
-{"id":"a769fd8a-1b78-4b6b-8fa4-573b2f361bba","content":{"input matrix":[[2.5,1,1],[1,2.5,1],[1,1,2.5]],"result":"Positive","solving":"Determinants: det1 = 2.5 det2 = 5.25 det3 = 10.125\n. None of the determinants is less than zero, so form is positive.\n"}}
