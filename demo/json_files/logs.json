@@ -1,0 +1,1 @@
+{"id":"00c2b6c9-31f9-45f5-90e5-673514eb9f82","content":{"input matrix":[[-2,1,1],[1,2,1],[1,1,-6]],"result":"Negative. ","solving":"Determinants: det1 = -2.0 det2 = -5.0 det3 = 32.0\n det1 is less than zero, so form is not positive.\nOdd index determinants are positive numbers, even index determinants are negative numbers, so form is negative."}}
